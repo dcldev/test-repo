@@ -1,7 +1,7 @@
 {
-  "name": "mvc_design",
+  "name": "cat_project",
   "version": "1.0.0",
-  "description": "",
+  "description": "cat",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
